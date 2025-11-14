@@ -1,5 +1,5 @@
 # Codeslaves_VKeducation_Max_Hack
-Решение кейса Цифровизация от команды Codeslaves для хакатона от VK education и MAXhttps://github.com/DyNd1/Codeslaves_VKeducation_Max_Hack/blob/main/README.md
+Решение кейса Цифровизация от команды Codeslaves для хакатона от VK education и MAX
 # 🚀 Установка и запуск
 
 ## Предварительные требования
