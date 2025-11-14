@@ -1,0 +1,15 @@
+maxgram
+psycopg2-binary
+pymorphy3
+pymorphy3-dicts-ru
+requests
+beautifulsoup4
+urllib3
+python-dateutil
+
+
+
+
+
+
+
